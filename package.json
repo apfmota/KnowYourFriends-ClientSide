@@ -1,0 +1,7 @@
+{
+  "name": "KnowYourFriends",
+  "version": "1.0.0",
+  "dependencies": {
+    "create-react-native-app": "^3.9.0"
+  }
+}
